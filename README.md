@@ -42,7 +42,7 @@ To Confgure Jenkins Job:
 
 ![Full screen](steps/7.PNG)
 
-- Right click on Build Number (here in my case it is #1) and click on Console Output to see the result. You could see Build Status `Success` on Console Output.
+- Right click on Build Number (here in my case it is #2) and click on Console Output to see the result. You could see Build Status `Success` on Console Output.
 
 ![Full screen](steps/8.PNG)
 
