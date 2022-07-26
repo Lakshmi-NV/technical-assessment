@@ -119,7 +119,7 @@ public class ChallengingDomPage extends base {
 		System.out.println("Test completed");
 	}
 
-	@Test
+	
 	public void VerifyForkMeOnGithub() throws IOException, InterruptedException
 	{
 		ChallengingDom c=new ChallengingDom(driver);
