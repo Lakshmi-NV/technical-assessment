@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Validating User login(failed)">
+    <classes>
+      <class name="Academy.ChallengingDomPage">
+        <methods>
+          <include name="TestCanvas"/>
+          <include name="validateAppTitle"/>
+          <include name="VerifyButton"/>
+          <include name="initialize"/>
+          <include name="teardown"/>
+          <include name="ValidateBlueButton"/>
+          <include name="VerifyElementalSelenium"/>
+          <include name="ListTableData"/>
+          <include name="ValidateDeleteButton"/>
+          <include name="ValidateEditButton"/>
+          <include name="ValidateParagraphText"/>
+          <include name="NoofRowsandColumn"/>
+          <include name="VerifyForkMeOnGithub"/>
+        </methods>
+      </class> <!-- Academy.ChallengingDomPage -->
+    </classes>
+  </test> <!-- Validating User login(failed) -->
+</suite> <!-- Failed suite [Suite] -->

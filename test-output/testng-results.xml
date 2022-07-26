@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="142121" started-at="2022-07-26T22:02:59 IST" finished-at="2022-07-26T22:05:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="142121" started-at="2022-07-26T22:02:59 IST" finished-at="2022-07-26T22:05:22 IST">
+      <class name="Academy.ChallengingDomPage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="initialize" is-config="true" duration-ms="6562" started-at="2022-07-26T22:02:59 IST" finished-at="2022-07-26T22:03:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="ListTableData()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="ListTableData" duration-ms="12153" started-at="2022-07-26T22:03:06 IST" finished-at="2022-07-26T22:03:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListTableData -->
+        <test-method status="PASS" signature="NoofRowsandColumn()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="NoofRowsandColumn" duration-ms="98" started-at="2022-07-26T22:03:18 IST" finished-at="2022-07-26T22:03:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NoofRowsandColumn -->
+        <test-method status="PASS" signature="TestCanvas()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="TestCanvas" duration-ms="35299" started-at="2022-07-26T22:03:18 IST" finished-at="2022-07-26T22:03:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCanvas -->
+        <test-method status="PASS" signature="ValidateBlueButton()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="ValidateBlueButton" duration-ms="73207" started-at="2022-07-26T22:03:54 IST" finished-at="2022-07-26T22:05:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateBlueButton -->
+        <test-method status="PASS" signature="ValidateDeleteButton()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="ValidateDeleteButton" duration-ms="2268" started-at="2022-07-26T22:05:07 IST" finished-at="2022-07-26T22:05:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDeleteButton -->
+        <test-method status="PASS" signature="ValidateEditButton()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="ValidateEditButton" duration-ms="2148" started-at="2022-07-26T22:05:09 IST" finished-at="2022-07-26T22:05:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEditButton -->
+        <test-method status="PASS" signature="ValidateParagraphText()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="ValidateParagraphText" duration-ms="139" started-at="2022-07-26T22:05:11 IST" finished-at="2022-07-26T22:05:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateParagraphText -->
+        <test-method status="PASS" signature="VerifyButton()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="VerifyButton" duration-ms="202" started-at="2022-07-26T22:05:11 IST" finished-at="2022-07-26T22:05:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyButton -->
+        <test-method status="PASS" signature="VerifyElementalSelenium()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="VerifyElementalSelenium" duration-ms="5517" started-at="2022-07-26T22:05:12 IST" finished-at="2022-07-26T22:05:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyElementalSelenium -->
+        <test-method status="PASS" signature="VerifyForkMeOnGithub()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="VerifyForkMeOnGithub" duration-ms="4053" started-at="2022-07-26T22:05:17 IST" finished-at="2022-07-26T22:05:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyForkMeOnGithub -->
+        <test-method status="PASS" signature="validateAppTitle()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="validateAppTitle" duration-ms="112" started-at="2022-07-26T22:05:21 IST" finished-at="2022-07-26T22:05:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.ChallengingDomPage@305b7c14]" name="teardown" is-config="true" duration-ms="239" started-at="2022-07-26T22:05:21 IST" finished-at="2022-07-26T22:05:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.ChallengingDomPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
